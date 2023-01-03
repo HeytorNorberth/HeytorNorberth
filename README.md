@@ -1,4 +1,4 @@
-## Oiii, eu sou Heytor Norberth, estudante de Sistemas de Informação na Universidade federal do Piau e  aprimorando os conhecimentos sobre Data Science.
+## Eu sou Heytor Norberth, estudante de Sistemas de Informação na Universidade federal do Piau e  aprimorando os conhecimentos sobre Data Science.
 <div align="center">
   <a href="https://github.com/HeytorNorberth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeytorNorberth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
